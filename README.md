@@ -1,7 +1,7 @@
 ### Kodluyoruz İlk Repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de Index.html barındırıyor.
 
-##Installation
+## Installation
 ```
 git clone https://github.com/bertibero/kodluyoruzilkrepo.git
 ```
